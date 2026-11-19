@@ -34,3 +34,4 @@ npm test -- --coverage
 
 **Objetivo alcançado quando:** A cobertura de testes atingir 100% em todas as métricas (linhas, branches, funções).
 
+.
